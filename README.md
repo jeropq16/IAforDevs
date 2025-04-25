@@ -47,6 +47,6 @@ Comparación
 
 5. Opinion
 
-La IA puede transformar procesos tradicionales en provesos más ágiles y mejores para el cliente. La clave está en garantizar una base de conocimiento actualizada y mantener siempre una vigilancia humanana. No se remplaza el humano, sino, que se transforma a supervisor y tambien le sirve como ayuda a el mismo humano.
+La IA puede transformar procesos tradicionales en procesos más ágiles y mejores para el cliente. La clave está en garantizar una base de conocimiento actualizada y mantener siempre una vigilancia humana. No se remplaza el humano, sino, que se transforma a supervisor, y tambien le sirve como ayuda a el mismo humano.
 
 
