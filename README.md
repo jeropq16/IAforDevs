@@ -4,7 +4,7 @@
 
 1. Introducción
 
-En este readme, intentamos dar soluciones de cómo un proceso tradicional puede mejorarse mediante la integración de la IA. Elegí rl diguirntr tems s snslizar: "la atención al cliente en una tienda de comercio electrónico*, un proceso que enfrenta muchos problemas de velocidad de respuesta y mal manejo de errores
+En este readme, intentamos dar soluciones de cómo un proceso tradicional puede mejorarse mediante la integración de la IA. Elegí para analizar el siguiente tema: "la atención al cliente en una tienda de comercio electrónico*, un proceso que enfrenta muchos problemas de velocidad de respuesta y mal manejo de errores
 
 2. Proceso actual
  
